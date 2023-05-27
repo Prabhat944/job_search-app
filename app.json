@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "job_app",
-    "slug": "job_app"
+    "slug": "job_app",
+    "extra": {
+      "eas": {
+        "projectId": "dc5c8715-2892-4dfd-b70f-ddd40d1a78fe"
+      }
+    },
+    "android": {
+      "package": "com.prabhat944.job_app"
+    }
   }
 }
